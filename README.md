@@ -1,0 +1,2 @@
+# SeptaSEM
+Mini Project Repository
